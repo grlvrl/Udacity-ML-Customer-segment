@@ -1,6 +1,8 @@
 # Content: Unsupervised Learning
 ## Project: Creating Customer Segments
 
+This Udacity project is designed to give hands-on experience with unsupervised learning and work towards developing conclusions for a potential client on a real-world dataset.
+
 ### Install
 
 This project requires **Python 2.7** and the following Python libraries installed:
